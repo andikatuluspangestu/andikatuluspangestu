@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm Andika Tulus Pangestu, a Social Science graduate who's
 Although, I think I'll wait to learn React before I build the website.
 
 ### 💡 Goals for 2021
-- Complete dicoding Barekraf bootcamp on 2021
+- Complete Node JS Vacation on 2021
 - Build 20+ projects 
 - Become skilled in JavaScript
 
@@ -31,7 +31,7 @@ Although, I think I'll wait to learn React before I build the website.
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/andika-tulus-pangestu/">Andika Tulus Pangestu</a>
 - Twitter: <a href = "https://twitter.com/andikatulusp">andikatulusp</a>
-- Website: coming soon
+- Website: <a href = "https://profil-andikatulus.web.app">andikatuluspangestu</a>
 - Story Blog: <a href = "https://coretangaguna.eu.org">Coretangaguna</a>
 <br>
 Crafted with &hearts; by Andika Pangestu
