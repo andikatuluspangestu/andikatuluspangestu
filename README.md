@@ -18,6 +18,7 @@ Welcome to my GitHub! I'm Andika Tulus Pangestu, a Social Science graduate who's
 - MySQL
 
 ### 👩‍💻 I'm working on
+- Student Ambassador At <a href = "https://kotakode.com">Kotakode</a>
 - Building projects and my portfolio website. 
 Although, I think I'll wait to learn React before I build the website.
 
@@ -35,6 +36,7 @@ Although, I think I'll wait to learn React before I build the website.
 - Twitter: <a href = "https://twitter.com/andikatulusp">andikatulusp</a>
 - Website: <a href = "https://profil-andikatulus.web.app">andikatuluspangestu</a>
 - Story Blog: <a href = "https://coretangaguna.eu.org">Coretangaguna</a>
+- A place to remember my learning: <a href = "https://codinginiter.blogspot.com">Codinginiter</a>
 <br>
 Crafted with &hearts; by Andika Pangestu
 <br>
