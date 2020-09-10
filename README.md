@@ -27,6 +27,16 @@ Although, I think I'll wait to learn React before I build the website.
 - Build 20+ projects 
 - Become skilled in JavaScript
 
+### 🎉 Event Participations
+- Progate Carrer Exploration Batch with UGM
+- Progate Ready Set Code 2020
+- Barparekraf Developer Day 2020
+- Indosat idCamp 2020
+- Carrer Exploration Batch 5 by Glints Academy
+- Indonesia New Collar & Skill Accelerator Center with IBM
+- Hacktoberfest 2020
+- NextJS Conference 2020
+
 ### 🌴 Fun facts
 - I blog. About techno. Tutorial and History. 
 - I will speak English fluently in 8 months or so.
