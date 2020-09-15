@@ -8,6 +8,7 @@ Welcome to my GitHub! I'm Andika Tulus Pangestu, a Social Science graduate who's
 - Awarded Top 5 Coders Of The Weeks Ready Set Code Bootcamp Experience 2020.
 - Awarded full scholarship by Progate Carrier Exploration Batch 3.
 - Graduated WEB programming exercise at dicoding academy.
+- FrontEnd Mentor at the event Ready Set Code Progate 2020
 
 ### ✔️ I'm currently learning
 - HTML &amp; CSS
@@ -15,6 +16,7 @@ Welcome to my GitHub! I'm Andika Tulus Pangestu, a Social Science graduate who's
 - Tailwind CSS
 - MDBootstrap Framework
 - JavaScript
+- Vue JS
 - MySQL
 
 ### 👩‍💻 I'm working on
