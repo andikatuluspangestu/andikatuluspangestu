@@ -12,6 +12,7 @@ Welcome to my GitHub! I'm Andika Tulus Pangestu, a Social Science graduate who's
 
 ### ✔️ I'm currently learning
 - HTML &amp; CSS
+- PHP
 - Bootstrap
 - Tailwind CSS
 - MDBootstrap Framework
@@ -21,6 +22,7 @@ Welcome to my GitHub! I'm Andika Tulus Pangestu, a Social Science graduate who's
 
 ### 👩‍💻 I'm working on
 - Student Ambassador At <a href = "https://kotakode.com">Kotakode</a>
+- Promotion Manager At <a href = "https://faceindomobile.com">Faceindo Chat</a>
 - Building projects and my portfolio website. 
 Although, I think I'll wait to learn React before I build the website.
 
@@ -49,7 +51,6 @@ Although, I think I'll wait to learn React before I build the website.
 - Website: <a href = "https://profil-andikatulus.web.app">andikatuluspangestu</a>
 - Dribbble: <a href = "https://dribbble.com/andhikatuluspangestu">andikatulusp</a>
 - Medium: <a href = "https://medium.com/@andhikatuluspangestu">@andhikatuluspangestu</a>
-- A place to remember my learning: <a href = "https://codinginiter.blogspot.com">Codinginiter</a>
 <br>
 Crafted with &hearts; by Andika Pangestu
 <br>
