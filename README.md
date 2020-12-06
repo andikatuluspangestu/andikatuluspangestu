@@ -40,6 +40,8 @@ Although, I think I'll wait to learn React before I build the website.
 - Indonesia New Collar & Skill Accelerator Center with IBM
 - Hacktoberfest 2020
 - NextJS Conference 2020
+- Kotakode Coding Festival 2020
+- Line Academy diCoding 2020
 
 ### 🌴 Fun facts
 - I blog. About techno. Tutorial and History. 
