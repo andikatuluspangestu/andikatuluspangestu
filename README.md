@@ -9,12 +9,12 @@ Welcome to my GitHub! I'm Andika Tulus Pangestu, a Social Science graduate who's
 - Awarded full scholarship by Progate Carrier Exploration Batch 3.
 - Graduated WEB programming exercise at dicoding academy.
 - FrontEnd Mentor at the event Ready Set Code Progate 2020
+- Speaker at Wibucode Webinar
 
 ### ✔️ I'm currently learning
 - HTML &amp; CSS
 - PHP
 - Bootstrap
-- Tailwind CSS
 - MDBootstrap Framework
 - JavaScript
 - Vue JS
@@ -23,11 +23,12 @@ Welcome to my GitHub! I'm Andika Tulus Pangestu, a Social Science graduate who's
 ### 👩‍💻 I'm working on
 - Student Ambassador At <a href = "https://kotakode.com">Kotakode</a>
 - Promotion Manager At <a href = "https://faceindomobile.com">Faceindo Chat</a>
+- Content Writer At <a href = "https://wibucode.com">Wibucode</a>
 - Building projects and my portfolio website. 
 Although, I think I'll wait to learn React before I build the website.
 
 ### 💡 Goals for 2021
-- Complete Node JS Vacation on 2021
+- Complete Node JS Vacation on May 2021
 - Build 20+ projects 
 - Become skilled in JavaScript
 
