@@ -57,8 +57,8 @@ Although, I think I'll wait to learn React before I build the website.
 <br/>
 
 ### 🗒 Github Stats
-![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-![Most Popular Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andikatuluspangestu&hide=java,html,scss,sass&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&count_private=true)
+![Most Popular Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andikatuluspangestu&hide=java,html,scss,sass)
 
 <br>
 Crafted with &hearts; by Andika Pangestu
