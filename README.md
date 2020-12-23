@@ -1,7 +1,9 @@
 <!-- Your title -->
 ## Hi, I'm Andika Tulus Pangestu, a WEB Developer 🚀 from Indonesia.
+![](https://github.com/andikatuluspangestu/andikatuluspangestu/blob/master/git.png)
 
-Welcome to my GitHub! I'm Andika Tulus Pangestu, a Social Science graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Progate Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/andikatulusp">AndikaPangestu</a> where I'm currently enjoying and <a href="https://www.linkedin.com/in/andika-tulus-pangestu-343884175/">linkedin</a>.
+Welcome to my GitHub! <br/>
+I'm **Andika Tulus Pangestu**, a Social Science graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Progate Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/andikatulusp">AndikaPangestu</a> where I'm currently enjoying and <a href="https://www.linkedin.com/in/andika-tulus-pangestu-343884175/">linkedin</a>.
 
 ### ⚡ Relevant achievements.
 - Awarded Top 5 Coders Of The Weeks Progate Experience with UGM 2020.
@@ -58,7 +60,6 @@ Although, I think I'll wait to learn React before I build the website.
 
 ### 🗒 Github Stats
 ![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&count_private=true)
-![Most Popular Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andikatuluspangestu&hide=java,html,scss,sass)
 
 <br>
 Crafted with &hearts; by Andika Pangestu
