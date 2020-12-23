@@ -59,7 +59,7 @@ Although, I think I'll wait to learn React before I build the website.
 <br/>
 
 ### 🗒 Github Stats
-![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&count_private=true)
+![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&count_private=true&theme=tokyonight)
 
 <br>
 Crafted with &hearts; by Andika Pangestu
