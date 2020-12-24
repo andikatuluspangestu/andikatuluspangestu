@@ -56,7 +56,6 @@ Although, I think I'll wait to learn React before I build the website.
 - Website: <a href = "https://profil-andikatulus.web.app">andikatuluspangestu</a>
 - Dribbble: <a href = "https://dribbble.com/andhikatuluspangestu">andikatulusp</a>
 - Medium: <a href = "https://medium.com/@andhikatuluspangestu">@andhikatuluspangestu</a>
-<br/>
 
 ### 🗒 Github Stats
 ![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&count_private=true&theme=tokyonight)
