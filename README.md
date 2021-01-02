@@ -14,13 +14,14 @@ I'm **Andika Tulus Pangestu**, a Social Science graduate who's transitioning int
 - Speaker at Wibucode Webinar
 
 ### ✔️ I'm currently learning
-- HTML &amp; CSS
-- PHP
-- Bootstrap
-- MDBootstrap Framework
-- JavaScript
-- Vue JS
-- MySQL
+- HTML &amp; CSS [ 3 Month ]
+- PHP [ 1 Month ]
+- Bootstrap [ 2 Month ]
+- MDBootstrap Framework [ 1 Month ]
+- JavaScript [ 1 Month ]
+- Vue JS [ 1 Month ]
+- MySQL [ 1 Month ]
+- Dart [ 3 Weeks ]
 
 ### 👩‍💻 I'm working on
 - Student Ambassador At <a href = "https://kotakode.com">Kotakode</a>
