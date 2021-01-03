@@ -27,7 +27,7 @@ I'm **Andika Tulus Pangestu**, a Social Science graduate who's transitioning int
 - Promotion Manager At <a href = "https://faceindomobile.com">Faceindo Chat</a>
 - Content Writer At <a href = "https://wibucode.com">Wibucode</a>
 - Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
+  Although, I think I'll wait to learn Vue before I build the website.
 
 ### 💡 Goals for 2021
 - Complete Node JS Vacation on May 2021
