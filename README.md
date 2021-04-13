@@ -40,11 +40,16 @@ I'm **Andika Tulus Pangestu**, a Social Science graduate who's transitioning int
 - Barparekraf Developer Day 2020
 - Indosat idCamp 2020
 - Carrer Exploration Batch 5 by Glints Academy
-- Indonesia New Collar & Skill Accelerator Center with IBM
+- Indonesia New Collar & Skill Accelerator Center with IBM 2020
 - Hacktoberfest 2020
 - NextJS Conference 2020
 - Kotakode Coding Festival 2020
 - Line Developer Academy diCoding 2020
+- New Year Bootcamp 2021 Progate
+- Indonesia New Collar & Skill Accelerator Center with IBM 2021
+- Barparekraf Developer Day 2021
+- Lintasarta Digischool 2021
+- AWS Cloud and Back-End Developer Scholarship dicoding
 
 ### 🌴 Fun facts
 - I blog. About techno. Tutorial and History. 
