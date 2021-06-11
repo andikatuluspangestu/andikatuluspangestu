@@ -27,12 +27,6 @@ I'm **Andika Tulus Pangestu**, a Social Science graduate who's transitioning int
 - Promotion Manager At <a href = "https://faceindomobile.com">Faceindo Chat</a>
 - Content Writer At <a href = "https://wibucode.com">Wibucode</a>
 - Building projects and my portfolio website. 
-  Although, I think I'll wait to learn Vue before I build the website.
-
-### 💡 Goals for 2021
-- Complete Node JS Vacation on May 2021
-- Build 20+ projects 
-- Become skilled in JavaScript
 
 ### 🎉 Event Participations
 - Progate Carrer Exploration Batch with UGM
@@ -64,6 +58,10 @@ I'm **Andika Tulus Pangestu**, a Social Science graduate who's transitioning int
 
 ### 🗒 Github Stats
 ![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&count_private=true&theme=tokyonight)
+
+### 🍭 Top Languages Used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andikatuluspangestu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 Crafted with &hearts; by Andika Pangestu
