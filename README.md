@@ -4,24 +4,6 @@
 Welcome to my GitHub! <br/>
 I'm **Andika Tulus Pangestu**, a Social Science graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Progate Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/andikatulusp">AndikaPangestu</a> where I'm currently enjoying and <a href="https://www.linkedin.com/in/andika-tulus-pangestu-343884175/">linkedin</a>.
 
-### ⚡ Relevant achievements.
-- Awarded Top 5 Coders Of The Weeks Progate Experience with UGM 2020.
-- Awarded Top 5 Coders Of The Weeks Ready Set Code Bootcamp Experience 2020.
-- Awarded full scholarship by Progate Carrier Exploration Batch 3.
-- Graduated WEB programming exercise at dicoding academy.
-- FrontEnd Mentor at the event Ready Set Code Progate 2020
-- Speaker at Wibucode Webinar
-
-### ✔️ I'm currently learning
-- HTML &amp; CSS [ 3 Month ]
-- PHP [ 1 Month ]
-- Bootstrap [ 2 Month ]
-- MDBootstrap Framework [ 1 Month ]
-- JavaScript [ 1 Month ]
-- Vue JS [ 1 Month ]
-- MySQL [ 1 Month ]
-- Dart [ 3 Weeks ]
-
 ### 👩‍💻 I'm working on
 - Student Ambassador At <a href = "https://kotakode.com">Kotakode</a>
 - Promotion Manager At <a href = "https://faceindomobile.com">Faceindo Chat</a>
