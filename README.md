@@ -2,7 +2,7 @@
 ## Hai, Saya Andika Tulus Pangestu, seorang IT Enthusiast 🚀 dari Indonesia.
 
 Selamat Datang di Repository Github Saya! <br/>
-Perkenalkan, saya merupakan seseorang yang sangat antusias dengan dunia teknologi informasi. Saya mempunyai beberapa website, tapi website ini adalah paling bagus menurut saya. Menikmati secangkir teh hangat ditemani kacang rebus, merupakan hal yang paling nyaman, apalagi ditemani sang ayah dan ibu. Jika ingin berbincang dengan saya, datanglah dan mari menikmatinya bersama saya...
+Perkenalkan, saya merupakan seseorang yang sangat antusias dengan dunia teknologi informasi. Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus menurut saya. Menikmati secangkir teh hangat ditemani kacang rebus, merupakan hal yang paling nyaman, apalagi ditemani sang ayah dan ibu. Jika ingin berbincang dengan saya, datanglah dan mari menikmatinya bersama saya...
 
 <!-- ### 👩‍💻 Pengalaman Kerja
 - Student Ambassador at <a href = "https://kotakode.com">Kotakode</a>
