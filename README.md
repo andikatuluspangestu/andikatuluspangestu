@@ -1,16 +1,16 @@
 <!-- Your title -->
-## Hai, Saya Andika Tulus Pangestu, seorang WEB Developer 🚀 dari Indonesia.
+## Hai, Saya Andika Tulus Pangestu, seorang IT Enthusiast 🚀 dari Indonesia.
 
 Selamat Datang di Repository Github Saya! <br/>
 Perkenalkan, saya merupakan seseorang yang sangat antusias dengan dunia teknologi informasi. Saya mempunyai beberapa website, tapi website ini adalah paling bagus menurut saya. Menikmati secangkir teh hangat ditemani kacang rebus, merupakan hal yang paling nyaman, apalagi ditemani sang ayah dan ibu. Jika ingin berbincang dengan saya, datanglah dan mari menikmatinya bersama saya...
 
-### 👩‍💻 Pengalaman Kerja
+<!-- ### 👩‍💻 Pengalaman Kerja
 - Student Ambassador at <a href = "https://kotakode.com">Kotakode</a>
 - Promotion Manager at <a href = "https://faceindomobile.com">Faceindo Chat</a>
 - Content Writer at <a href = "https://wibucode.com">Wibucode</a>
 - Frontend Web Developer at <a href = "https://sman3slawi.sch.id">TIM IT SMA Negeri 3 Slawi</a>
 - Instructure Mentor at <a href="https://progate.com">Progate Indonesia</a>
-- Building projects and my portfolio website. 
+- Building projects and my portfolio website.  -->
 
 ### 🎉 Partisipasi Events
 - Progate Carrer Exploration Batch with UGM
