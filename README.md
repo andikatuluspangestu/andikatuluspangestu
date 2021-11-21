@@ -15,10 +15,12 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 - Instructure Mentor at <a href="https://progate.com">Progate Indonesia</a>
 - Building projects and my portfolio website.  -->
 
+<!--
 ### 🏆 Github Trophy
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=andikatuluspangestu&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
+<!--
 ### 🎉 Partisipasi Events
 - Progate Carrer Exploration Batch with UGM
 - Progate Ready Set Code 2020
@@ -36,6 +38,7 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 - Lintasarta Digischool 2021
 - AWS Cloud and Back-End Developer Scholarship dicoding
 - Instructure Mentor at DTS Fresh Graduate Academy (FGA) KOMINFO 2021
+-->
 
 ### ☕ Temukan saya di media sosial
 - LinkedIn: <a href = "https://www.linkedin.com/in/andika-tulus-pangestu/">Andika Tulus Pangestu</a>
