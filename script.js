@@ -161,7 +161,7 @@ function drawCanvas() {
 		};
 
 		handImg.src =
-			"nafa.jpg";
+			"https://raw.githubusercontent.com/andikatuluspangestu/andikatuluspangestu/master/nafa.jpg";
 	}
 }
 
