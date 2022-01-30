@@ -51,18 +51,18 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 ![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andikatuluspangestu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Python](https://img.shields.io/badge/-Hugo-000?&logo=Hugo)
-![Python](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Hugo](https://img.shields.io/badge/-Hugo-000?&logo=Hugo)
+![BS](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
-![SQL](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
+<!-- ![Java](https://img.shields.io/badge/-Java-000?&logo=Java) -->
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Python](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Python](https://img.shields.io/badge/-Android-000?&logo=Android)
-![Python](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
-![Python](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+![Arch](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+<!-- ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=andikatuluspangestu&repo=andikatuluspangestu&countColorcountColor) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andikatuluspangestu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andikatuluspangestu&" alt="andikatuluspangestu" /> -->
 
