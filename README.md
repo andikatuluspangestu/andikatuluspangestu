@@ -43,7 +43,7 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 ### ☕ Temukan saya di media sosial
 - LinkedIn: <a href = "https://www.linkedin.com/in/andika-tulus-pangestu/">Andika Tulus Pangestu</a>
 - Twitter: <a href = "https://twitter.com/andikatulusp">andikatulusp</a>
-- Website: <a href = "https://profil-andikatulus.web.app">andikatuluspangestu</a>
+- Website: <a href = "https://andikatuluspangestu.github.io/">andikatuluspangestu</a>
 - Dribbble: <a href = "https://dribbble.com/andhikatuluspangestu">andikatulusp</a>
 - Medium: <a href = "https://medium.com/@andhikatuluspangestu">@andhikatuluspangestu</a>
 
