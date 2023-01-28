@@ -7,25 +7,12 @@ Holaa 👋 <br/>
 Perkenalkan, saya merupakan seseorang yang sangat antusias dengan dunia teknologi informasi.   
 Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus menurut saya.
 
-<!-- ### 👩‍💻 Pengalaman Kerja
-- Student Ambassador at <a href = "https://kotakode.com">Kotakode</a>
-- Promotion Manager at <a href = "https://faceindomobile.com">Faceindo Chat</a>
-- Content Writer at <a href = "https://wibucode.com">Wibucode</a>
-- Frontend Web Developer at <a href = "https://sman3slawi.sch.id">TIM IT SMA Negeri 3 Slawi</a>
-- Instructure Mentor at <a href="https://progate.com">Progate Indonesia</a>
-- Building projects and my portfolio website.  -->
 
-<!--
-### 🏆 Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=andikatuluspangestu&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
--->
-
-<!--
 ### 🎉 Partisipasi Events
 - Progate Carrer Exploration Batch with UGM
 - Progate Ready Set Code 2020
 - Barparekraf Developer Day 2020
-- Indosat idCamp 2020 & 2021
+- Indosat idCamp 2020,2021, & 2022
 - Carrer Exploration Batch 5 by Glints Academy
 - Indonesia New Collar & Skill Accelerator Center with IBM 2020
 - Hacktoberfest 2020
@@ -38,7 +25,9 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 - Lintasarta Digischool 2021
 - AWS Cloud and Back-End Developer Scholarship dicoding
 - Instructure Mentor at DTS Fresh Graduate Academy (FGA) KOMINFO 2021
--->
+- VSGA Kominfo 2022
+- Olimpiade Vokasi Nasional 2022
+
 
 ### ☕ Temukan saya di media sosial
 - LinkedIn: <a href = "https://www.linkedin.com/in/andika-tulus-pangestu/">Andika Tulus Pangestu</a>
@@ -56,13 +45,11 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
-<!-- ![Java](https://img.shields.io/badge/-Java-000?&logo=Java) -->
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-000?&logo=Codeigniter)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![Arch](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
+![Xubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-<!-- ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=andikatuluspangestu&repo=andikatuluspangestu&countColorcountColor) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andikatuluspangestu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andikatuluspangestu&" alt="andikatuluspangestu" /> -->
 
