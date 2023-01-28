@@ -8,7 +8,7 @@ Perkenalkan, saya merupakan seseorang yang sangat antusias dengan dunia teknolog
 Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus menurut saya.
 
 
-### 🎉 Partisipasi Events
+<!-- ### 🎉 Partisipasi Events
 - Progate Carrer Exploration Batch with UGM
 - Progate Ready Set Code 2020
 - Barparekraf Developer Day 2020
@@ -26,15 +26,15 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 - AWS Cloud and Back-End Developer Scholarship dicoding
 - Instructure Mentor at DTS Fresh Graduate Academy (FGA) KOMINFO 2021
 - VSGA Kominfo 2022
-- Olimpiade Vokasi Nasional 2022
-
+- Olimpiade Vokasi Nasional 2022 -->
 
 ### ☕ Temukan saya di media sosial
-- LinkedIn: <a href = "https://www.linkedin.com/in/andika-tulus-pangestu/">Andika Tulus Pangestu</a>
-- Twitter: <a href = "https://twitter.com/andikatulusp">andikatulusp</a>
-- Website: <a href = "https://andikatuluspangestu.github.io/">andikatuluspangestu</a>
-- Dribbble: <a href = "https://dribbble.com/andhikatuluspangestu">andikatulusp</a>
-- Medium: <a href = "https://medium.com/@andhikatuluspangestu">@andhikatuluspangestu</a>
+- [Hire me on Linkedin](https://www.linkedin.com/in/andika-tulus-pangestu/)
+- [Twitter](https://twitter.com/andikatulusp)
+- [Facebook](https://www.facebook.com/tuluspgstu)
+- [Instagram](https://instagram.com/andikatuluspangestu)
+- [Telegram](https://t.me/andikatulusp)
+- [Portfolio](andikatuluspangestu.github.io/)
 
 ### 🗒 Statistik Github 
 ![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
