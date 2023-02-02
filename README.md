@@ -7,7 +7,13 @@ Holaa 👋 <br/>
 Perkenalkan, saya merupakan seseorang yang sangat antusias dengan dunia teknologi informasi.   
 Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus menurut saya.
 
+### 🔬 Languages & Tools
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
+<img align="left" alt="Codeigniter 3" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_logo_icon_146591.png" />
+<img align="left" alt="Laravel" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" />
+<img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" />
 
+<br>
 <!-- ### 🎉 Partisipasi Events
 - Progate Carrer Exploration Batch with UGM
 - Progate Ready Set Code 2020
@@ -39,8 +45,7 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 ### 🗒 Statistik Github 
 ![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andikatuluspangestu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-![Hugo](https://img.shields.io/badge/-Hugo-000?&logo=Hugo)
+<!-- ![Hugo](https://img.shields.io/badge/-Hugo-000?&logo=Hugo)
 ![BS](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -48,5 +53,5 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Arch](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
 ![Xubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma) -->
 
