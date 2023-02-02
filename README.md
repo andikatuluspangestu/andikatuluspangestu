@@ -38,7 +38,7 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 
 ### 🗒 Statistik Github 
 ![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andikatuluspangestu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andikatuluspangestu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 ![Hugo](https://img.shields.io/badge/-Hugo-000?&logo=Hugo)
 ![BS](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
@@ -46,9 +46,9 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-000?&logo=Codeigniter)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+<!-- ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP) -->
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+<!-- ![Android](https://img.shields.io/badge/-Android-000?&logo=Android) -->
 ![Arch](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
 ![Xubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
