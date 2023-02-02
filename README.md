@@ -45,10 +45,7 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-000?&logo=Codeigniter)
-<!-- ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP) -->
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-<!-- ![Android](https://img.shields.io/badge/-Android-000?&logo=Android) -->
 ![Arch](https://img.shields.io/badge/-ArchLinux-000?&logo=ArchLinux)
 ![Xubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
