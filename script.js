@@ -83,7 +83,6 @@ $(document).on("keyup", function (e) {
 		drawBoxGlitch2();
 	}
 	if (e.which == 51) {
-		// glitch test 3
 		console.log("glitch test 3");
 		drawRGBGlitch({ rOffset: 5, gOffset: 15, bOffset: 25 });
 	}
