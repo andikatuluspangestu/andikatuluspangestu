@@ -1,17 +1,17 @@
-<!-- Your title -->
-## Hai, Saya Andika Tulus Pangestu, seorang IT Enthusiast 🚀 dari Indonesia.
+## Hi, I'm Andika Tulus Pangestu, an IT Enthusiast 🚀 from Indonesia.
 
 <img src="https://images.cooltext.com/5558360.png" width="586">
 
 Holaa 👋 <br/>
-Perkenalkan, saya merupakan seseorang yang sangat antusias dengan dunia teknologi informasi.   
-Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus menurut saya.
+Let me introduce myself, I am someone who is very enthusiastic about the world of information technology.  
+I have several websites, but my github readme is the best in my opinion.
 
 ### 🔬 Languages & Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-<img align="left" alt="Codeigniter 3" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_logo_icon_146591.png" />
-<img align="left" alt="Laravel" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" />
-<img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/python_94570.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
+<img align="left" alt="Codeigniter 3" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_logo_icon_146591.png" />
+<img align="left" alt="Laravel" width="35px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" />
+<img align="left" alt="JavasScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
+<img align="left" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
 
 <br>
 <!-- ### 🎉 Partisipasi Events
@@ -34,16 +34,20 @@ Saya mempunyai beberapa website, tapi readme github saya ini adalah paling bagus
 - VSGA Kominfo 2022
 - Olimpiade Vokasi Nasional 2022 -->
 
-### ☕ Temukan saya di media sosial
+### ☕ Find me on social media
 - [Hire me on Linkedin](https://www.linkedin.com/in/andika-tulus-pangestu/)
 - [Twitter](https://twitter.com/andikatulusp)
 - [Facebook](https://www.facebook.com/tuluspgstu)
 - [Instagram](https://instagram.com/andikatuluspangestu)
 - [Telegram](https://t.me/andikatulusp)
-- [Portfolio](andikatuluspangestu.github.io/)
+- [Portfolio](https://andikatuluspangestu.github.io/)
 
-### 🗒 Statistik Github 
-![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+### 📈 Github Statistics 
+![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andikatuluspangestu&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andikatuluspangestu&theme=tokyonight&utcOffset=7)
+
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andikatuluspangestu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <!-- ![Hugo](https://img.shields.io/badge/-Hugo-000?&logo=Hugo)
 ![BS](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
