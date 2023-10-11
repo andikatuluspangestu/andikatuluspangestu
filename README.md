@@ -6,14 +6,17 @@ Holaa 👋 <br/>
 Let me introduce myself, I am someone who is very enthusiastic about the world of information technology.  
 I have several websites, but my github readme is the best in my opinion.
 
-### 🔬 Languages & Tools
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-<img align="left" alt="Codeigniter 3" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_logo_icon_146591.png" />
-<img align="left" alt="Laravel" width="35px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" />
-<img align="left" alt="JavasScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
-<img align="left" alt="Bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
+### 🔬 Languages, Framework & Tools.
+<img align="left" alt="Codeigniter 3" width="35px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_logo_icon_146591.png" />
+<img align="left" alt="Laravel" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" />
+<img align="left" alt="JavasScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
+<img align="left" alt="Bootstrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
+<img align="left" alt="Ubuntu" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_logo_icon_167735.png" />
+<img align="left" alt="Sublime Text" width="40px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" />
+<img align="left" alt="XAMPP" width="40px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 
-<br>
+<br><br>
 <!-- ### 🎉 Partisipasi Events
 - Progate Carrer Exploration Batch with UGM
 - Progate Ready Set Code 2020
