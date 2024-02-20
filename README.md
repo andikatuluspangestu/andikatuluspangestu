@@ -1,7 +1,7 @@
-## Hi, I'm Andika Tulus Pangestu, an IT Enthusiast 🚀 from Indonesia.
+## Hi there! I'm Andika Tulus Pangestu, an IT Enthusiast 🚀 from Indonesia.
 
 Holaa 👋 <br/>
-Hi there! I'm a web developer and content writer. I'm really good at using PHP frameworks and Javascript.  
+I'm a web developer and content writer. I'm really good at using PHP frameworks and Javascript.  
 I can also write technical documentation, blogs, modules, and other tech stuff.
 
 <table>
@@ -55,7 +55,7 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
 <table>
 <thead>
   <tr>
-    <th colspan="4">Tools & Library</th>
+    <th colspan="4">Tools</th>
   </tr>
 </thead>
 <tbody>
@@ -67,10 +67,10 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
       <img height="32" width="32" src="https://cdn.simpleicons.org/git/#02569B" />
     </td>
     <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/#EF4223" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/windows10/#0078D6" />
     </td>
     <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/#FF2D20" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/#E95420" />
     </td>
   </tr>
 </tbody>
