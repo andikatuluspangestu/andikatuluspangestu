@@ -1,22 +1,81 @@
 ## Hi, I'm Andika Tulus Pangestu, an IT Enthusiast 🚀 from Indonesia.
 
-<img src="https://images.cooltext.com/5558360.png" width="586">
-
 Holaa 👋 <br/>
-Let me introduce myself, I am someone who is very enthusiastic about the world of information technology.  
-I have several websites, but my github readme is the best in my opinion.
+Hi there! I'm a web developer and content writer. I'm really good at using PHP frameworks and Javascript.  
+I can also write technical documentation, blogs, modules, and other tech stuff.
 
-### 🔬 Languages, Framework & Tools.
-<img align="left" alt="Codeigniter 3" width="35px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_logo_icon_146591.png" />
-<img align="left" alt="Laravel" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" />
-<img align="left" alt="JavasScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
-<img align="left" alt="Bootstrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
-<img align="left" alt="Ubuntu" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_logo_icon_167735.png" />
-<img align="left" alt="Sublime Text" width="40px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" />
-<img align="left" alt="XAMPP" width="40px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/xampp_94513.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
+<table>
+<thead>
+  <tr>
+    <th colspan="4">Language</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/php/#777BB4" />
+    </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
+    </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" />
+    </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/dart/#0175C2" />
+    </td>
+  </tr>
+</tbody>
+</table>
 
-<br><br>
+<table>
+<thead>
+  <tr>
+    <th colspan="4">Framework</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/codeigniter/#EF4223" />
+    </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/laravel/#FF2D20" />
+    </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/hugo/#FF4088" />
+    </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/#02569B" />
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="4">Tools & Library</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#FF4088" />
+    </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/git/#02569B" />
+    </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/#EF4223" />
+    </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/#FF2D20" />
+    </td>
+  </tr>
+</tbody>
+</table>
+
 <!-- ### 🎉 Partisipasi Events
 - Progate Carrer Exploration Batch with UGM
 - Progate Ready Set Code 2020
@@ -51,7 +110,9 @@ I have several websites, but my github readme is the best in my opinion.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andikatuluspangestu&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andikatuluspangestu&theme=tokyonight&utcOffset=7)
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andikatuluspangestu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andikatuluspangestu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+<img src="https://images.cooltext.com/5558360.png" width="586">
+-->
 <!-- ![Hugo](https://img.shields.io/badge/-Hugo-000?&logo=Hugo)
 ![BS](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
