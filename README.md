@@ -7,7 +7,7 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
 <table>
 <thead>
   <tr>
-    <th colspan="4">Language</th>
+    <th colspan="12">Languages, Frameworks & Tools</th>
   </tr>
 </thead>
 <tbody>
@@ -24,18 +24,6 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
     <td>
       <img height="32" width="32" src="https://cdn.simpleicons.org/dart/#0175C2" />
     </td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="4">Framework</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
     <td>
       <img height="32" width="32" src="https://cdn.simpleicons.org/codeigniter/#EF4223" />
     </td>
@@ -48,19 +36,7 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
     <td>
       <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/#02569B" />
     </td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-  <tr>
-    <th colspan="4">Tools</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
+     <td>
       <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#FF4088" />
     </td>
     <td>
