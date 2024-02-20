@@ -61,6 +61,12 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
     <td>
       <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/#E95420" />
     </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/figma/" />
+    </td>
+    <td>
+      <img height="32" width="32" src="https://cdn.simpleicons.org/github/" />
+    </td>
   </tr>
 </tbody>
 </table>
