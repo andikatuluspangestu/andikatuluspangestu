@@ -1,8 +1,8 @@
 ## Hi there! I'm Andika Tulus Pangestu, an IT Enthusiast 🚀 from Indonesia.
 
 Holaa 👋 <br/>
-I'm a web developer and content writer. I'm really good at using PHP frameworks and Javascript.  
-I can also write technical documentation, blogs, modules, and other tech stuff.
+Saya seorang pengembang web dan penulis konten. Saya sangat ahli dalam menggunakan kerangka kerja PHP dan Javascript. 
+Saya juga dapat menulis dokumentasi teknis, blog, modul, dan hal-hal teknis lainnya.
 
 <table>
 <thead>
