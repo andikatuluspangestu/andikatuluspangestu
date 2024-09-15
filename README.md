@@ -4,7 +4,7 @@ Holaa 👋 <br/>
 I'm a web developer and content writer. I'm really good at using PHP frameworks and Javascript.  
 I can also write technical documentation, blogs, modules, and other tech stuff.
 
-<table>
+<!-- <table>
 <thead>
   <tr>
     <th colspan="12">Languages and Frameworks</th>
@@ -13,7 +13,7 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
 <tbody>
   <tr>
     <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/php/#777BB4" />
+      <img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/php.svg" />
     </td>
     <td>
       <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
@@ -40,7 +40,7 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
 </tbody>
 </table>
 
-<!-- Tools -->
+<!-- 
 <table>
 <thead>
   <tr>
@@ -69,7 +69,7 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
     </td>
   </tr>
 </tbody>
-</table>
+</table> -->
 
 
 ### ☕ Find me on social media
@@ -80,10 +80,10 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
 - [Telegram](https://t.me/andikatulusp)
 - [Portfolio](https://andikatuluspangestu.github.io/)
 
-### 📈 Github Statistics 
+<!--  ### 📈 Github Statistics 
 ![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andikatuluspangestu&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andikatuluspangestu&theme=tokyonight&utcOffset=7)
-
+-->
 
