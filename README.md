@@ -1,82 +1,28 @@
-## Hi there! I'm Andika Tulus Pangestu, an IT Enthusiast 🚀 from Indonesia.
+## Hey 👋 I'm Andika
 
-Holaa 👋 <br/>
-I make web stuff, break things, fix them, and sometimes write about it.
+from Indonesia 🇮🇩  
+web dev — mostly PHP & JavaScript  
 
-<!-- <table>
-<thead>
-  <tr>
-    <th colspan="12">Languages and Frameworks</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/php.svg" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/python/#3776AB" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/dart/#0175C2" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/codeigniter/#EF4223" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/laravel/#FF2D20" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/hugo/#FF4088" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/#02569B" />
-    </td>
-  </tr>
-</tbody>
-</table>
+I build things,  
+break things,  
+fix things... sometimes 😄  
 
-<!-- 
-<table>
-<thead>
-  <tr>
-    <th colspan="12">Tools</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/#FF4088" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/git/#02569B" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/windows10/#0078D6" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu/#E95420" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/figma/" />
-    </td>
-    <td>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/github/ffffff" />
-    </td>
-  </tr>
-</tbody>
-</table> -->
+---
 
+### 🧰 Tech I use
+PHP • JavaScript • Python • Dart  
+Laravel • CodeIgniter • Flutter  
 
-### ☕ Find me on social media
-- [Hire me on Linkedin](https://www.linkedin.com/in/andika-tulus-pangestu/)
-- [Twitter](https://twitter.com/andikatulusp)
-- [Facebook](https://www.facebook.com/tuluspgstu)
-- [Instagram](https://instagram.com/andikatuluspangestu)
-- [Telegram](https://t.me/andikatulusp)
-- [Portfolio](https://andikatuluspangestu.github.io/)
+---
 
+### ✍️ Side quest
+write docs, blogs, and random tech notes  
 
+---
+
+### ☕ Find me
+- LinkedIn: https://www.linkedin.com/in/andika-tulus-pangestu/
+- Twitter: https://twitter.com/andikatulusp
+- Instagram: https://instagram.com/andikatuluspangestu
+- Telegram: https://t.me/andikatulusp
+- Portfolio: https://andikatuluspangestu.github.io/
