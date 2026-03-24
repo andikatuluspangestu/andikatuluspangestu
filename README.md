@@ -80,10 +80,4 @@ I can also write technical documentation, blogs, modules, and other tech stuff.
 - [Telegram](https://t.me/andikatulusp)
 - [Portfolio](https://andikatuluspangestu.github.io/)
 
-### 📈 Github Statistics 
-![Andika github stats](https://github-readme-stats.vercel.app/api?username=andikatuluspangestu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)  
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andikatuluspangestu&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andikatuluspangestu&theme=tokyonight&utcOffset=7)
-
 
